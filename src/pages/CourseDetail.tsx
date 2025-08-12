@@ -13,8 +13,8 @@ const CourseDetail = () => {
     category: 'Computer Science',
     instructor: {
       id: 1,
-      name: 'Prof. John Doe',
-      image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+      name: 'Prof. (Dr.) Madhu Chitkara',
+      image: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
     },
     students: 128,
     duration: '4 years',

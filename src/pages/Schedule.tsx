@@ -76,7 +76,7 @@ const Schedule = () => {
     {
       id: 2,
       title: 'Web Development Workshop',
-      instructor: 'Prof. John Doe',
+      instructor: 'Prof. (Dr.) Madhu Chitkara',
       time: '2:00 PM - 4:00 PM',
       day: 1, // Monday
       location: 'Computer Lab 3, Building B',
@@ -96,7 +96,7 @@ const Schedule = () => {
     {
       id: 4,
       title: 'Machine Learning Lab',
-      instructor: 'Dr. Michael Chen',
+      instructor: 'Dr. S.K. Dubey',
       time: '1:00 PM - 3:00 PM',
       day: 2, // Tuesday
       location: 'AI Lab, Building A',
@@ -106,7 +106,7 @@ const Schedule = () => {
     {
       id: 5,
       title: 'Digital Marketing Strategies',
-      instructor: 'Prof. Emily Rodriguez',
+      instructor: 'Prof. R.K. Sharma',
       time: '11:00 AM - 12:30 PM',
       day: 3, // Wednesday
       location: 'Room 102, Building B',
@@ -116,7 +116,7 @@ const Schedule = () => {
     {
       id: 6,
       title: 'Electrical Circuits Lab',
-      instructor: 'Dr. David Wilson',
+      instructor: 'Dr. Neena Gupta',
       time: '2:00 PM - 4:00 PM',
       day: 3, // Wednesday
       location: 'Electronics Lab, Building D',
@@ -146,7 +146,7 @@ const Schedule = () => {
     {
       id: 9,
       title: 'Software Engineering Project',
-      instructor: 'Prof. John Doe',
+      instructor: 'Prof. (Dr.) Madhu Chitkara',
       time: '9:00 AM - 11:00 AM',
       day: 5, // Friday
       location: 'Project Room, Building A',

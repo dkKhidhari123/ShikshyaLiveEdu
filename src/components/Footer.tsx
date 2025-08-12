@@ -10,7 +10,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center">
               <BookOpen className="h-8 w-8 text-indigo-600 dark:text-indigo-400" />
-              <span className="ml-2 text-xl font-bold text-gray-900 dark:text-white">EduConnect</span>
+              <span className="ml-2 text-xl font-bold text-gray-900 dark:text-white">SikshayLive</span>
             </div>
             <p className="mt-2 text-sm text-gray-600 dark:text-gray-400">
               Revolutionizing online education with real-time interactions and collaborative learning.
@@ -100,7 +100,7 @@ const Footer = () => {
         
         <div className="mt-8 border-t border-gray-200 dark:border-gray-700 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm text-gray-600 dark:text-gray-400">
-            &copy; {new Date().getFullYear()} EduConnect. All rights reserved.
+            &copy; {new Date().getFullYear()} SikshayLive. All rights reserved.
           </p>
           <div className="mt-4 md:mt-0 flex space-x-6">
             <a href="#" className="text-gray-500 hover:text-indigo-600 dark:text-gray-400 dark:hover:text-indigo-400">

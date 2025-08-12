@@ -16,7 +16,7 @@ export const supabase = createClient<Database>(supabaseUrl, supabaseAnonKey, {
   },
   global: {
     headers: {
-      'X-Client-Info': 'educonnect-platform'
+      'X-Client-Info': 'SikshayLive-platform'
     }
   },
   db: {

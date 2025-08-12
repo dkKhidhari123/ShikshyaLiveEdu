@@ -15,19 +15,19 @@ const LiveClassroom = () => {
   const [activeTab, setActiveTab] = useState('participants');
   const [chatMessage, setChatMessage] = useState('');
   const [messages, setMessages] = useState([
-    { id: 1, sender: 'Prof. John Doe', text: 'Welcome to today\'s class on Data Structures!', time: '10:01 AM', isInstructor: true },
-    { id: 2, sender: 'Sarah Johnson', text: 'Looking forward to learning about linked lists.', time: '10:02 AM', isInstructor: false },
-    { id: 3, sender: 'Michael Chen', text: 'Will we be covering binary trees as well?', time: '10:03 AM', isInstructor: false },
-    { id: 4, sender: 'Prof. John Doe', text: 'Yes, we\'ll cover binary trees in the second half of the class.', time: '10:04 AM', isInstructor: true },
+    { id: 1, sender: 'Prof. (Dr.) Madhu Chitkara', text: 'Welcome to today\'s class on Data Structures!', time: '10:01 AM', isInstructor: true },
+    { id: 2, sender: 'Aryan Patel', text: 'Looking forward to learning about linked lists.', time: '10:02 AM', isInstructor: false },
+    { id: 3, sender: 'Aditya Joshi', text: 'Will we be covering binary trees as well?', time: '10:03 AM', isInstructor: false },
+    { id: 4, sender: 'Prof. (Dr.) Madhu Chitkara', text: 'Yes, we\'ll cover binary trees in the second half of the class.', time: '10:04 AM', isInstructor: true },
   ]);
   const [participants, setParticipants] = useState([
-    { id: 1, name: 'Prof. John Doe', isInstructor: true, isOnline: true, handRaised: false },
-    { id: 2, name: 'Sarah Johnson', isInstructor: false, isOnline: true, handRaised: false },
-    { id: 3, name: 'Michael Chen', isInstructor: false, isOnline: true, handRaised: true },
-    { id: 4, name: 'Emily Rodriguez', isInstructor: false, isOnline: true, handRaised: false },
-    { id: 5, name: 'David Wilson', isInstructor: false, isOnline: false, handRaised: false },
-    { id: 6, name: 'Lisa Thompson', isInstructor: false, isOnline: true, handRaised: false },
-    { id: 7, name: 'James Anderson', isInstructor: false, isOnline: true, handRaised: false },
+    { id: 1, name: 'Prof. (Dr.) Madhu Chitkara', isInstructor: true, isOnline: true, handRaised: false },
+    { id: 2, name: 'Aryan Patel', isInstructor: false, isOnline: true, handRaised: false },
+    { id: 3, name: 'Aditya Joshi', isInstructor: false, isOnline: true, handRaised: true },
+    { id: 4, name: 'Rahul Sharma', isInstructor: false, isOnline: true, handRaised: false },
+    { id: 5, name: 'Vikram Singh', isInstructor: false, isOnline: false, handRaised: false },
+    { id: 6, name: 'Aarav Thapa', isInstructor: false, isOnline: true, handRaised: false },
+    { id: 7, name: 'Anjali Ghimire', isInstructor: false, isOnline: true, handRaised: false },
   ]);
   const [showSidebar, setShowSidebar] = useState(true);
   const [currentPoll, setCurrentPoll] = useState({

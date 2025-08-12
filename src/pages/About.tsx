@@ -6,25 +6,25 @@ const About = () => {
     {
       name: 'Dr. Jane Smith',
       role: 'Lead Instructor',
-      image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+      image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
       bio: 'Ph.D. in Computer Science with over 10 years of teaching experience. Specializes in Data Science and Machine Learning.',
     },
     {
-      name: 'Prof. John Doe',
+      name: 'Prof. (Dr.) Madhu Chitkara',
       role: 'Senior Instructor',
-      image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+      image: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
       bio: 'Expert in Web Development and Software Engineering with industry experience at leading tech companies.',
     },
     {
       name: 'Prof. Sarah Williams',
       role: 'Business Faculty',
-      image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+      image: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
       bio: 'MBA with specialization in Marketing and Business Strategy. Former consultant for Fortune 500 companies.',
     },
     {
-      name: 'Dr. Michael Chen',
+      name: 'Dr. S.K. Dubey',
       role: 'AI Specialist',
-      image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+      image: 'https://images.unsplash.com/photo-1545167622-3a6ac756afa4?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
       bio: 'Researcher in Artificial Intelligence and Deep Learning with multiple publications in top journals.',
     },
   ];

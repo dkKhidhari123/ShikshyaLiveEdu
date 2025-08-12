@@ -47,7 +47,7 @@ const Home = () => {
     {
       id: 2,
       title: 'Advanced Web Development',
-      instructor: 'Prof. John Doe',
+      instructor: 'Prof. (Dr.) Madhu Chitkara',
       time: 'Tomorrow, 10:00 AM',
       image: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80',
     },
@@ -197,11 +197,11 @@ const Home = () => {
               <div className="flex items-center">
                 <img
                   className="h-12 w-12 rounded-full"
-                  src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+                  src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
                   alt="Student"
                 />
                 <div className="ml-4">
-                  <h4 className="text-lg font-semibold text-gray-900 dark:text-white">Sarah Johnson</h4>
+                  <h4 className="text-lg font-semibold text-gray-900 dark:text-white">Aryan Patel</h4>
                   <p className="text-gray-600 dark:text-gray-300">Computer Science Student</p>
                 </div>
               </div>
@@ -214,11 +214,11 @@ const Home = () => {
               <div className="flex items-center">
                 <img
                   className="h-12 w-12 rounded-full"
-                  src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+                  src="https://images.unsplash.com/photo-1545167622-3a6ac756afa4?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
                   alt="Student"
                 />
                 <div className="ml-4">
-                  <h4 className="text-lg font-semibold text-gray-900 dark:text-white">Michael Chen</h4>
+                  <h4 className="text-lg font-semibold text-gray-900 dark:text-white">Aditya Joshi</h4>
                   <p className="text-gray-600 dark:text-gray-300">Business Administration Student</p>
                 </div>
               </div>
@@ -231,11 +231,11 @@ const Home = () => {
               <div className="flex items-center">
                 <img
                   className="h-12 w-12 rounded-full"
-                  src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+                  src="https://images.unsplash.com/photo-1593104547489-5cfb3839a3b5?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
                   alt="Student"
                 />
                 <div className="ml-4">
-                  <h4 className="text-lg font-semibold text-gray-900 dark:text-white">Emily Rodriguez</h4>
+                  <h4 className="text-lg font-semibold text-gray-900 dark:text-white">Aaisha Sharma</h4>
                   <p className="text-gray-600 dark:text-gray-300">Psychology Student</p>
                 </div>
               </div>
